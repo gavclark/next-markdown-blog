@@ -9,7 +9,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Dev Blog</title>
+        <title>Gavin Clark - Blog Posts about Power BI and other data stuff</title>
       </Head>
 
       <div className='posts'>

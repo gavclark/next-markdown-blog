@@ -5,7 +5,7 @@ export default function Header() {
     <header>
       <div className='container'>
         <Link href='/' passHref>
-          <h2>Power BI blog and other data related stuff</h2>
+          <h2>Gavin Clark - Blog Posts about Power BI and other data stuff</h2>
         </Link>
       </div>
     </header>
